@@ -1,0 +1,16 @@
+Репозиторий учебных материалов:
+
+git clone https://github.com/datascience-2023/SC420-3007
+
+
+Anaconda:
+https://www.anaconda.com/download/
+
+Git:
+https://git-scm.com/download/win
+
+Шпаргалка по Markdown:
+https://notebook.community/tschinz/iPython_Workspace/00_Admin/CheatSheet/Markdown%20CheatSheet
+
+Справка по встроенным типам python:
+https://docs.python.org/3/library/stdtypes.html
