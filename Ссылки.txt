@@ -14,3 +14,28 @@ https://notebook.community/tschinz/iPython_Workspace/00_Admin/CheatSheet/Markdow
 
 Справка по встроенным типам python:
 https://docs.python.org/3/library/stdtypes.html
+
+Google Colaboratory:
+https://colab.research.google.com/
+
+Kaggle:
+https://www.kaggle.com/
+
+DeepNote:
+https://deepnote.com/
+
+LeetCode:
+https://leetcode.com/
+
+Itertools:
+https://docs.python.org/3/library/itertools.html
+
+brunoyam.test@gmail.com
+ZG>'h5Sf
+
+jupyter lab --notebook-dir "V:\SC420-3007\Антон Крамарев"
+
+
+https://deepnote.com/workspace/dai-yousei-29382f47-e312-40c4-b079-74b1e21027b4/project/Untitled-project-bc8f7da6-070f-4544-ac37-8229dad155c2/notebook/Notebook%201-1a6be74a23f94c36ba5644757660d8b0
+
+Good afternoon. Please confirm my phone number.
