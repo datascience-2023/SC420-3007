@@ -9,11 +9,20 @@ https://www.anaconda.com/download/
 Git:
 https://git-scm.com/download/win
 
+Шпаргалка по Pandas:
+https://pythonpip.ru/pandas/kratkoe-rukovodstvo-po-osnovam-pandas
+
 Шпаргалка по Markdown:
 https://notebook.community/tschinz/iPython_Workspace/00_Admin/CheatSheet/Markdown%20CheatSheet
 
 Справка по встроенным типам python:
 https://docs.python.org/3/library/stdtypes.html
+
+Форматы строк:
+https://docs.python.org/3/library/string.html#formatspec
+
+Докуентация Pandas:
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
 
 Google Colaboratory:
 https://colab.research.google.com/
@@ -32,6 +41,9 @@ https://py.checkio.org/
 
 Timus:
 https://acm.timus.ru/
+
+Stratascratch:
+https://platform.stratascratch.com/
 
 Itertools:
 https://docs.python.org/3/library/itertools.html
