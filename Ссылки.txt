@@ -2,6 +2,8 @@
 
 git clone https://github.com/datascience-2023/SC420-3007
 
+Wolfram Alpha:
+https://www.wolframalpha.com/
 
 Anaconda:
 https://www.anaconda.com/download/
@@ -68,3 +70,9 @@ https://deepnote.com/workspace/dai-yousei-29382f47-e312-40c4-b079-74b1e21027b4/p
 
 
 http://www.kalfaoglu.com/ceng113/Python-Programming/pythontricks.pdf
+
+Deepnote анализ
+https://deepnote.com/workspace/dai-yousei-29382f47-e312-40c4-b079-74b1e21027b4/project/EDA-265a9286-53f7-4af4-92a0-6f856c3cdeac/notebook/Notebook%201-b8f0b3582f974a949f7c2afeec72e125
+
+Deepnote SQL
+https://deepnote.com/workspace/dai-yousei-29382f47-e312-40c4-b079-74b1e21027b4/project/Untitled-project-70c3e1ea-8138-4b11-abd2-9a59637061f9/notebook/Notebook%201-56358a329e34497e8a9b84736e516154
