@@ -2,6 +2,10 @@
 
 git clone https://github.com/datascience-2023/SC420-3007
 
+Пакеты для урока 11:
+
+conda install pyod gensim category_encoders umap-learn
+
 Wolfram Alpha:
 https://www.wolframalpha.com/
 
