@@ -2,6 +2,25 @@
 
 git clone https://github.com/datascience-2023/SC420-3007
 
+Albumentations:
+https://albumentations.ai/docs/getting_started/installation/
+
+Урок 13:
+
+https://colab.research.google.com/drive/1AY9oWritLdzzbWquYg4Ld1QyTQAhMQWV?usp=sharing
+
+Урок 14
+
+https://colab.research.google.com/drive/1Wp_QUduJdCvuBXLDZtOvUBPQMsX7EdBC?usp=sharing
+
+Установка torch:
+
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+
+Deepnote для семинара:
+
+https://deepnote.com/workspace/dai-yousei-29382f47-e312-40c4-b079-74b1e21027b4/project/DS-practice-b6eac71f-f6b2-4f28-b73f-304b69d1c3f6/notebook/Notebook%201-d70f0cbe956f4691ad09c54d718e7b24
+
 Пакеты для урока 11:
 
 conda install pyod gensim category_encoders umap-learn
